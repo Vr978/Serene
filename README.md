@@ -36,8 +36,8 @@ Follow these steps to set up and run Serene on your local machine.
     Move the cloned repository to the htdocs folder in the XAMPP directory.
     Open your web browser and go to http://localhost/Serene/index.html.
 ```
-3. ** Explore Website **
+3. **Explore Website**
 ```bash
     Explore the website and enjoy the calming experience.
-    ```
-4. ** Note: Connect the Database created in php/myadmin **
+```
+4. **Note: Connect the Database created in php/myadmin**
